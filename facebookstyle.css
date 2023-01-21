@@ -1,0 +1,64 @@
+.fb-icon span img{
+    width: 300px;
+    align-items: center;
+    
+}
+
+.fb-text{
+    font-weight: 500;
+}
+.bt-anmelden{
+    text-decoration: none;
+    background-color:#166FE5;
+    color: azure;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+.box-size p{
+   border-bottom: 1px solid;
+   color: #cbcbcb;
+}
+.p-vergessen{
+    text-decoration: none;
+}
+.acc-btn{
+    text-decoration: none;
+    background-color: #36A420;
+    color: aliceblue;
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px; 
+    margin-top: 10px;
+    margin-bottom:10px ;
+}
+.ls-title{
+    margin-top: 50px;
+}
+.parargraph-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+footer{
+    color: aliceblue;
+    
+}
+footer div a {
+    text-decoration: none;
+    justify-content: space-between ;
+    color: #676767;
+}
+footer div{
+    justify-content: space-between ;
+}
+footer div p {
+    border-bottom: 1px solid rgb(199, 195, 195);
+    margin-top: 20px;
+}
+.more{
+    border: hsl(0, 90%, 48%);
+}
